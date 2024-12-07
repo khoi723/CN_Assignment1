@@ -65,7 +65,7 @@ upload <path to the torrent file> <tracker HTTP address>
 To download a torrent file, use the following command:  
 
 
-<!-- download <path to the torrent file> <path to the directory to save the downloaded file> -->
+download <path to the torrent file> <path to the directory to save the downloaded file>
 
 
 Replace placeholders such as file paths and HTTP addresses with the specific details required for your use case.  
